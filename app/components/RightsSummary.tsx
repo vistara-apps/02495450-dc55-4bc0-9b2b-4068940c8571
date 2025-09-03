@@ -145,7 +145,7 @@ export function RightsSummary({ selectedState }: RightsSummaryProps) {
               </div>
             </div>
           </div>
-        </div>
+        </Card>
       </div>
 
       {/* Quick Reference */}

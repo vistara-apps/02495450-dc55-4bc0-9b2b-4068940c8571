@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Zara Rights Companion",
+    "subtitle": "Built with Zara",
+    "description": "Zara Rights Companion is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://02495450dc554bc09b2b4068940c8571-1jdc-f78s6jxdg-vistara.vercel.app",
+    "splashImageUrl": "https://02495450dc554bc09b2b4068940c8571-1jdc-f78s6jxdg-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://02495450dc554bc09b2b4068940c8571-1jdc-f78s6jxdg-vistara.vercel.app/image.png",
+    "tagline": "Zara Rights Companion",
+    "screenshotUrls": [
+      "https://02495450dc554bc09b2b4068940c8571-1jdc-f78s6jxdg-vistara.vercel.app/screenshot.png",
+      "https://02495450dc554bc09b2b4068940c8571-1jdc-f78s6jxdg-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://02495450dc554bc09b2b4068940c8571-1jdc-f78s6jxdg-vistara.vercel.app/api/webhook"
+  }
+}
